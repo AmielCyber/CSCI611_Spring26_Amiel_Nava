@@ -1,0 +1,2 @@
+# CSCI611_Spring26_Amiel_Nava
+Convolutional Neural Network
