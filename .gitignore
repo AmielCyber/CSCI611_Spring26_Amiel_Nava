@@ -211,3 +211,7 @@ __marimo__/
 
 # Mac
 .DS_Store
+Assignment_2/build_cnn/data/cifar-10-python.tar.gz
+Assignment_2/build_cnn/model_trained.pt
+Assignment_2/build_cnn/model_trained.pt
+/Assignment_2/build_cnn/runs/cnn_graph
