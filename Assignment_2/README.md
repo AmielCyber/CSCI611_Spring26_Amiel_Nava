@@ -10,4 +10,6 @@
   ```conda install -c conda-forge tensorboard```
 
 ## Google Colab
-For an easy runing experience, use [Google Colab](https://colab.research.google.com) to run the Jupyter Notebooks by entering the name of this repository. 
+For an online Juptyer enviornment, use [Google Colab](https://colab.research.google.com) and select open notebook from GitHub and enter:
+```https://github.com/AmielCyber/CSCI611_Spring26_Amiel_Nava/tree/main/Assignment_2```
+to run the Jupter Notebook in your Google Colab
