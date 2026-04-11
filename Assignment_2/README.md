@@ -8,3 +8,6 @@
 * [Tensorboard](https://docs.pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html) to View Created CNN Diagrams
 
   ```conda install -c conda-forge tensorboard```
+
+## Google Colab
+For an easy runing experience, use [Google Colab](https://colab.research.google.com) to run the Jupyter Notebooks by entering the name of this repository. 
